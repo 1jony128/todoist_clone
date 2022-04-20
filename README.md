@@ -1,5 +1,5 @@
 
-Название: trello-clone
+Название: todoist_clone
 
 Стек: 
   frontend:
